@@ -343,31 +343,31 @@ Start by bringing up the marketing window again."
 Right click the title bar of the work item to toggle between normal and collapsed view.
 
 Left click the title bar and drag to re-arrange your work items."
-    DIGITALDISTRIBUTION1    "Open the distribution window to begin the tutorial."
-    DIGITALDISTRIBUTION4    "This is a list of online stores that distribute software for a cut of the revenue. By default you are selling through all of them.
+    DIGITALDISTRIBUTION1    "Откройте окно цифровой дистрибуции, чтобы начать учебное пособие."
+    DIGITALDISTRIBUTION4    "Это список интернет-магазинов, которые распространяют программное обеспечение за указанный процент от выручки. По умолчанию вы продаете все через них.
 
-You can click the checkmarks in the list and uncheck {H:Auto-sign new platforms} to take full control. Note the {H:Consumer reach} number, as selling on too few stores can limit how many people will buy your product digitally.
+Вы можете нажать на галочки в списке и снять флажок {H:Автоматически подписывать новые платформы} чтобы получить полный контроль. Обратите внимание на {H:Охват потребителей}, так как продажи в небольшом количестве магазинов могут ограничить количество людей, которые купят ваш продукт в цифровом виде.
 
-Press continue to learn about opening your own store."
-    DIGITALDISTRIBUTION2    "To start selling products through your own online store, you need to develop a distribution platform by clicking the highlighted button. Running a distribution platform requires a big support team and a high bandwidth server farm. Even if your store isn't selling much, it might still have a large userbase that will only hang around if you provide constant service.
+Нажмите продолжить, чтобы узнать об открытии собственного цифрового магазина."
+    DIGITALDISTRIBUTION2    "Чтобы начать продавать товары через свой собственный интернет-магазин, вам необходимо разработать платформу распространения, нажав на выделенную кнопку. Для запуска платформы распространения требуется большая команда поддержки и ферма серверов с высокой пропускной способностью. Даже если ваш магазин мало что продает, у него все равно может быть большая база пользователей, которая будет работать только в том случае, если вы будете предоставлять постоянное обслуживание.
 
-Once your store is up and running, you should update it regularly to keep up with tech levels and reduce bugs. Make sure to develop a new version of your platform once new features become available on your competitors' platforms.
+Как только ваш магазин заработает, вы должны регулярно обновлять его, чтобы не отставать от технического уровня и уменьшить количество ошибок. Обязательно разрабатывайте новыю версии своей платформы, как только новые функции станут доступны на платформах ваших конкурентов.
 
-Please note that online stores don't really take hold until the 21st century, so you might not see much activity in the beginning.
+Пожалуйста, обратите внимание, что интернет-магазины на самом деле не появляются до 21 века, поэтому вначале вы можете не заметить большой активности.
 
-Press continue to learn about selling other companies' products."
-    DIGITALDISTRIBUTION3    "If you want to make some extra income by distributing other companies' products, you can enable it using the highlighted toggle.
+Нажмите продолжить, чтобы узнать о продаже продукции других компаний."
+    DIGITALDISTRIBUTION3    "Если вы хотите получать дополнительный доход, распространяя продукцию других компаний, вы можете включить это с помощью выделенного переключателя.
 
-Your digital market share and business reputation, combined with the cut you decide to take of your clients' products, will determine how many are willing to sign up to your digital store.
+Ваша доля на цифровом рынке и деловая репутация в сочетании с тем, какую долю товаров вы решите использовать для своих клиентов, будут определять, сколько людей захотят подписаться на ваш цифровой магазин.
 
-Companies will automatically start signing up to your service each month. It's up to you whether you want to accept all new deals, or let them in one-by-one, by checking the {H:Auto-accept new deals} toggle.
+Компании автоматически начнут подписываться на ваш сервис каждый месяц. Вам решать, хотите ли вы принимать все новые предложения или разрешать их по одному, установив флажок {H:Автоматическое принятие новых сделок}.
 
-The percentage label on the slider becomes red when you change your cut, to indicate whether the current cut has a chance to make clients cancel their deal entirely.
+Метка процента на ползунке становится красной, когда вы повышаете свою долю, есть шанс заставить клиентов полностью отменить свою сделку и покинуть вашу платформу.
 
-Finally, you should note that you'll need extra bandwidth to handle selling all those extra products."
-    DIGITALDISTRIBUTION5    "Your store may have a lot of users, but if you don't have any products for them to buy, your market share will stay low and you will fail to attract new clients. Luckily, you can offer other companies time-limited {H:exclusivity deals} for your store, to give your users something to buy.
+Наконец, вы должны знать, что вам потребуется дополнительная пропускная способность серверов, для продажи большого объема продуктов."
+    DIGITALDISTRIBUTION5    "В вашем магазине может быть много пользователей, но если у вас нет товаров, которые они могли бы купить, ваша доля на рынке будет низкой, и вы не сможете привлечь новых клиентов. К счастью, вы можете предлагать другим компаниям, ограниченные по времени {H:эксклюзивные предложения} для продажи их продукта в вашем магазине, чтобы дать вашим пользователям возможность что-то купить.
 
-You can do this by opening any product overview, like {H:All software}, selecting a <b>software</b> product and clicking the {H:Exclusivity deal} button. These won't be cheap, especially for new products, but each sale will drive up the market share of your store."
+Вы можете сделать это, открыв обзор любого продукта, в {H:Продукты}, выбрав <b>продукт</b> и нажав кнопку {H:Эксклюзивная сделка}. Это будет недешево, особенно для новых продуктов, но каждая продажа будет увеличивать долю рынка вашего магазина."
     EDUCATION1              "You need an employee who is ready for education before you can begin the education tutorial.
 
 Employees will be eligible for education when they gain enough experience working on different tasks."
@@ -605,40 +605,40 @@ Go to build mode to see how you setup your printing logistics."
     PHYSICALDISTRIBUTION4   "You'll find printers in the furnish menu.
 
 Small printers can be placed directly on conveyor belts and larger printers can be placed on the ground to drop boxes on conveyor belts adjacent to them."
-    PROJECTMANAGEMENT1      "Start by opening the project management window."
-    PROJECTMANAGEMENT2      "Project management let's you delegate a release cycle to a leader in your company, so they control everything from creating a design to supporting the product once it's released.
+    PROJECTMANAGEMENT1      "Начните с открытия окна управления проектом."
+    PROJECTMANAGEMENT2      "Управление проектами позволяет вам назначить руководителя и команду для цикла выпуска продукта вашей компании, чтобы они контролировали все - от создания дизайна до поддержки продукта после его выпуска.
 
-A project management team needs a leader, with at least 1 star in the {H:Automation} specialization. The leader will dedicate all their time to keeping the project running, so it might be worthwhile to keep the leader in their own team.
+Команде по управлению проектами нужен лидер, со специальностью {H:Руководитель} имеющий как минимум 1 звезду в области {H:Автоматизация}. Руководитель будет посвящать все свое время поддержанию проекта в рабочем состоянии, поэтому, возможно, имеет смысл назначить руководителя со своей собственной командой, с которой у них будет лучшая совместимость.
 
-Start by selecting a leader to run the project and name your team."
-    PROJECTMANAGEMENT3      "Now look through each of the options to control how the projects should be handled. You can hover over each label to get a detailed description.
+Начните с выбора лидера для запуска проекта и назовите свою команду."
+    PROJECTMANAGEMENT3      "Теперь просмотрите каждый из вариантов, чтобы контролировать, как следует обрабатывать проекты. Вы можете навести курсор на каждый пункт, чтобы получить подробное описание.
 
-Note that some options might be greyed out, because your leader doesn't have the necessary Automation level. You can see what each Automation level unlocks by hovering over the stars in the specialization overview for leaders in the Employee window, Team window or Employee detail window.
+Обратите внимание, что некоторые параметры могут быть выделены серым цветом, поскольку ваш руководитель не обладает необходимым уровнем Автоматизации. Уровень автоматизации разблокируется при наведении курсора мыши на звездочки в обзоре специализации для руководителей в окне сотрудника, окне команды или в окне сведений о сотруднике.
 		
-Click OK when you're ready."
-    PROJECTMANAGEMENT4      "Now open the project management detail window for your new project."
-    PROJECTMANAGEMENT5      "You'll notice a new panel that tells you how many actions points the leader has accumulated.
+Нажмите ОК, когда будете готовы."
+    PROJECTMANAGEMENT4      "Теперь откройте Настройки в окне управления проектом."
+    PROJECTMANAGEMENT5      "Вы увидите новую панель, которая сообщает вам, сколько очков за действия накопил лидер.
 		
-Action points are used to start new projects, complete marketing tasks and move through the development stages. Some actions cost more points than others. Your leader will continually work to accumulate these points.
+Точки действия используются для запуска новых проектов, выполнения маркетинговых задач и прохождения этапов разработки. Некоторые действия стоят больше очков, чем другие. Ваш лидер будет постоянно работать над накоплением этих очков.
 
-Leader skill determines how many points can be gathered and role specific skills control how quickly they will be gathered for each category."
-    PROJECTMANAGEMENT6      "The bottom panel tells you which projects are currently queued and lets you cancel or take them over.
+Навык лидера определяет, сколько очков можно набрать, а навыки, относящиеся к конкретной роли, определяют, как быстро они будут набраны для каждой категории."
+    PROJECTMANAGEMENT6      "Нижняя панель сообщает вам, какие проекты в данный момент находятся в очереди, и позволяет отменить или перенять их.
 
-Before the project can begin you have to either pick a product you've released to use as a prototype for future projects or assign a project directly from the design document window.
+Перед началом проекта вы должны либо выбрать продукт, который вы выпустили, для использования в качестве прототипа для будущих проектов, либо назначить проект непосредственно из окна разработки нового ПО.
 
-Go to the {H:Design document window}."
-    PROJECTMANAGEMENT7      "When you are done making your design, click the {H:Project management} button, instead of the {H:Develop} button, to assign your new design to the project queue."
-    RESEARCH1               "Start the tutorial by pressing the {H:Research} button to bring up the research window."
-    RESEARCH2               "The research window allows you to research a specialization to unlock a new tech level.
+Перейдите в {H:Разработка ПО}."
+    PROJECTMANAGEMENT7      "Когда вы закончите с настйроками, нажмите кнопку  {H:Управление проектом}, вместо кнопки {H:Разработать}, чтобы назначить новую команду управления проектом."
+    RESEARCH1               "Запустите учебное пособие, нажав кнопку {H:Исследования}."
+    RESEARCH2               "Окно исследования позволяет вам исследовать специализацию, чтобы разблокировать новый технический уровень.
 
-The newest tech level will always be inaccessible until you've researched it, but they will unlock as you or your competitors research the next tech level.
+Новейший технический уровень всегда будет недоступен, пока вы его не изучите, но они будут открываться по мере того, как вы или ваши конкуренты будете исследовать следующий технический уровень.
 
-Try clicking one of the specializations in the left panel."
-    RESEARCH3               "To the right you will now see a list of all tech levels currently researched for the chosen specialization and whether they have a patent owner.
+Попробуйте кликнуть по одной из специализаций на левой панели."
+    RESEARCH3               "Справа вы увидите список всех технологических уровней, которые в настоящее время исследуются для выбранной специализации, а так же компании, которые исследуют их и примерное время окончания исследований.
 
-At the bottom you can see a button to start researching this specialization, which requires designers with a level 3 specialization of the type you want to research. 
+Внизу вы можете увидеть кнопку, чтобы начать исследование этой специализации, для которой потребуются проектировщики со специализацией 3-го уровня того типа, который вы хотите исследовать. 
 
-Researching new tech before anyone else will allow you to apply for a patent using {H:Service} employees with the level 3 {H:Law} specialization. If you own the patent to a tech level, all companies using it will have to pay a royalty fee off their sales."
+Если вы исследуете новую технологии раньше, чем другие, вы можете подать заявку на патент, используя сотрудников {H:Обслуживания} со специализацией {H:Юрист} 3 уровня. Если вы владеете патентом на техническом уровне, все компании, использующие его, должны будут выплачивать вам определенный процент со своих продаж."
     SERVER1                 "You can connect or disconnect servers in wire mode by clicking on a server and then on another server. You can also select all the servers you want to connect using {KeyBind:MultipleSelect}, {KeyBind:SweepSelect} or dragging a rectangle with {KeyBind:NormalSelection} and then press {KeyBind:ContextMenu} and press {H:Connect servers}.
 
 The load you put on a group of connected servers will be distributed among every server in the group. If one server in a group breaks down, the entire group stops working.
